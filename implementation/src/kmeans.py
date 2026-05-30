@@ -12,6 +12,7 @@ class KMeansClustering:
         self.centroids = None
         self.labels = None
 
+
     def fit(self, X):
         X = np.array(X)
         n_samples = X.shape[0]

@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-from src import KNNClassifier
 
 
 def load_and_preprocess(filepath):
