@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IDE specific files
+.idea/
+
+# Data files
+implementation/data/
+*.csv
+
+# Virtual Environments
+implementation/.venv/
+.venv/
